@@ -251,11 +251,11 @@
 
 // Write a function translate() that will translate a text into "rövarspråket". That is, double every consonant and place an occurrence of "o" in between. For example, translate("this is fun") should return the string "tothohisos isos fofunon".
 
-var translate = function(){
+// var translate = function(){
 
-}
+// }
 
-translate("this is fun");
+// translate("this is fun");
 
 // Define a function sum() and a function multiply() that sums and multiplies (respectively) all the numbers in an array of numbers. For example, sum([1,2,3,4]) should return 10, and multiply([1,2,3,4]) should return 24.
 
